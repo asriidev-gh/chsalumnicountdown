@@ -41,6 +41,9 @@ const Clock = ({setDays, setHours, setMinutes, setSeconds}) => {
 					<a href="https://www.facebook.com/chsmillenniumbatch" target='new'> <img src={ps} alt="pinterest" /> </a>
 					<a href="https://www.facebook.com/chsmillenniumbatch" target='new'> <img src={inst} alt="instagram" /> </a>
 				</div>
+				<div className="credits">
+					Developed By: Andy Radam (Section 11A - CHS Alumni Batch 2000)
+				</div>
 			</div>
 		</Fragment>
 	)
